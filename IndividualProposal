@@ -1,0 +1,6 @@
+# Launcher -  Using an ultrasonic sensor (or some kind of detection device) to detect when the ball rolls past the sensor to then 
+# launch it back into the playing field automatically. Some sort of signal from the playing field turning off the automatic launcher 
+# when something happens or when the game is over. (servo motor with hammer to launch them up?) In order to control the servo motor I would need to 
+# edit the steps per revolution and the speed at which it moves. This will take a lot of testing. I will also experiment with ways the ball falls into
+# some kind of holder where it can easily be hit to run back into the playing field. I might have this be on its own arduino or we may put it on an 
+# arduino with the paddles.
