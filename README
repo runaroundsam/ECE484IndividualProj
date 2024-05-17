@@ -1,1 +1,2 @@
+# Pinball marble launcher
 This is my individual portion of the Pinball Project for ECE484. My focus was on the launcher portion of the Pinball machine. My final design consisted of a push pull solenoid, a small voltage controller circuit, and a push button which was pretty different from my initial proposal. This project took lots of testing and trial and error but the final product was very successful as a marble launching device. Check out the wiki for more information on the specific details of each component. 
